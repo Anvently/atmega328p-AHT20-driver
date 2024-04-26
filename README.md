@@ -6,8 +6,7 @@ Once the code is flashed onto a board using the avr-gcc compiler (see the makefi
 
 Exemple:
 
-``
-	make
-	screen /dev/ttyUSB0 115200,cs8
-``
+``` make
+screen /dev/ttyUSB0 115200,cs8
+```
 (use ctrl-a + k to exit screen program)
